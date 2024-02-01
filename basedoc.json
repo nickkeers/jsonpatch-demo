@@ -1,0 +1,7 @@
+{
+  "hello": "world",
+  "author": "nick",
+  "foo": "bar",
+  "names": ["Mike", "Frank", "Paul"],
+  "changes": []
+}

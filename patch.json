@@ -1,0 +1,5 @@
+[
+  {"op": "add", "path": "/qux", "value": "qud"},
+  {"op": "add", "path": "/names/-", "value": "Tim"},
+  {"op": "remove", "path": "/names/0"}
+]
